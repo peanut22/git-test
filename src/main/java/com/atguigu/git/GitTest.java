@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("master test!");
         System.out.println("hot-fix text!");
         System.out.println("push test!");
+        System.out.println("远程拉取代码 pull test!");
     }
 }
